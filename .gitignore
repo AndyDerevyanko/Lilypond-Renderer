@@ -1,0 +1,15 @@
+# Local tooling (LilyPond binary ~600MB extracted - not committed)
+tools/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# Editor
+.vscode/
+.idea/
+
+# Render output scratch
+out/
