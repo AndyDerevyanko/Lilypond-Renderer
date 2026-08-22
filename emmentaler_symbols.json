@@ -1,0 +1,1967 @@
+{
+ "noteheadWhole": {
+  "codepoint": "U+F0000"
+ },
+ "noteheadHalf": {
+  "codepoint": "U+F0001"
+ },
+ "noteheadBlack": {
+  "codepoint": "U+F0002"
+ },
+ "noteheadDoubleWhole": {
+  "codepoint": "U+F0003"
+ },
+ "restDoubleWhole": {
+  "codepoint": "U+F0004"
+ },
+ "restWhole": {
+  "codepoint": "U+F0005"
+ },
+ "restHalf": {
+  "codepoint": "U+F0006"
+ },
+ "restQuarter": {
+  "codepoint": "U+F0007"
+ },
+ "rest8th": {
+  "codepoint": "U+F0008"
+ },
+ "rest16th": {
+  "codepoint": "U+F0009"
+ },
+ "rest32nd": {
+  "codepoint": "U+F000A"
+ },
+ "rest64th": {
+  "codepoint": "U+F000B"
+ },
+ "rest128th": {
+  "codepoint": "U+F000C"
+ },
+ "rest256th": {
+  "codepoint": "U+F000D"
+ },
+ "rest512th": {
+  "codepoint": "U+F000E"
+ },
+ "rest1024th": {
+  "codepoint": "U+F000F"
+ },
+ "flag8thUp": {
+  "codepoint": "U+F0010"
+ },
+ "flag16thUp": {
+  "codepoint": "U+F0011"
+ },
+ "flag32ndUp": {
+  "codepoint": "U+F0012"
+ },
+ "flag64thUp": {
+  "codepoint": "U+F0013"
+ },
+ "flag128thUp": {
+  "codepoint": "U+F0014"
+ },
+ "flag256thUp": {
+  "codepoint": "U+F0015"
+ },
+ "flag512thUp": {
+  "codepoint": "U+F0016"
+ },
+ "flag1024thUp": {
+  "codepoint": "U+F0017"
+ },
+ "flag8thDown": {
+  "codepoint": "U+F0018"
+ },
+ "flag16thDown": {
+  "codepoint": "U+F0019"
+ },
+ "flag32ndDown": {
+  "codepoint": "U+F001A"
+ },
+ "flag64thDown": {
+  "codepoint": "U+F001B"
+ },
+ "flag128thDown": {
+  "codepoint": "U+F001C"
+ },
+ "flag256thDown": {
+  "codepoint": "U+F001D"
+ },
+ "flag512thDown": {
+  "codepoint": "U+F001E"
+ },
+ "flag1024thDown": {
+  "codepoint": "U+F001F"
+ },
+ "gClef": {
+  "codepoint": "U+F0020"
+ },
+ "fClef": {
+  "codepoint": "U+F0021"
+ },
+ "cClef": {
+  "codepoint": "U+F0022"
+ },
+ "unpitchedPercussionClef1": {
+  "codepoint": "U+F0023"
+ },
+ "accidentalDoubleFlat": {
+  "codepoint": "U+F0024"
+ },
+ "accidentalFlat": {
+  "codepoint": "U+F0025"
+ },
+ "accidentalNatural": {
+  "codepoint": "U+F0026"
+ },
+ "accidentalSharp": {
+  "codepoint": "U+F0027"
+ },
+ "accidentalDoubleSharp": {
+  "codepoint": "U+F0028"
+ },
+ "keyboardPedalPed": {
+  "codepoint": "U+F0029"
+ },
+ "keyboardPedalUp": {
+  "codepoint": "U+F002A"
+ },
+ "arpeggiatoUp": {
+  "codepoint": "U+F002B"
+ },
+ "articStaccatoAbove": {
+  "codepoint": "U+F002C"
+ },
+ "articStaccatoBelow": {
+  "codepoint": "U+F002D"
+ },
+ "articAccentAbove": {
+  "codepoint": "U+F002E"
+ },
+ "articAccentBelow": {
+  "codepoint": "U+F002F"
+ },
+ "articTenutoAbove": {
+  "codepoint": "U+F0030"
+ },
+ "articTenutoBelow": {
+  "codepoint": "U+F0031"
+ },
+ "articMarcatoAbove": {
+  "codepoint": "U+F0032"
+ },
+ "articMarcatoBelow": {
+  "codepoint": "U+F0033"
+ },
+ "articStaccatissimoAbove": {
+  "codepoint": "U+F0034"
+ },
+ "articStaccatissimoBelow": {
+  "codepoint": "U+F0035"
+ },
+ "articTenutoStaccatoAbove": {
+  "codepoint": "U+F0036"
+ },
+ "articTenutoStaccatoBelow": {
+  "codepoint": "U+F0037"
+ },
+ "pluckedLeftHandPizzicato": {
+  "codepoint": "U+F0038"
+ },
+ "fermataAbove": {
+  "codepoint": "U+F0039"
+ },
+ "fermataBelow": {
+  "codepoint": "U+F003A"
+ },
+ "ornamentTrill": {
+  "codepoint": "U+F003B"
+ },
+ "ornamentTurn": {
+  "codepoint": "U+F003C"
+ },
+ "ornamentMordent": {
+  "codepoint": "U+F003D"
+ },
+ "ornamentShortTrill": {
+  "codepoint": "U+F003E"
+ },
+ "timeSig0": {
+  "codepoint": "U+F003F"
+ },
+ "timeSig1": {
+  "codepoint": "U+F0040"
+ },
+ "timeSig2": {
+  "codepoint": "U+F0041"
+ },
+ "timeSig3": {
+  "codepoint": "U+F0042"
+ },
+ "timeSig4": {
+  "codepoint": "U+F0043"
+ },
+ "timeSig5": {
+  "codepoint": "U+F0044"
+ },
+ "timeSig6": {
+  "codepoint": "U+F0045"
+ },
+ "timeSig7": {
+  "codepoint": "U+F0046"
+ },
+ "timeSig8": {
+  "codepoint": "U+F0047"
+ },
+ "timeSig9": {
+  "codepoint": "U+F0048"
+ },
+ "timeSigCommon": {
+  "codepoint": "U+F0049"
+ },
+ "timeSigCutCommon": {
+  "codepoint": "U+F004A"
+ },
+ "gClef8vb": {
+  "codepoint": "U+F004B"
+ },
+ "gClef8va": {
+  "codepoint": "U+F004C"
+ },
+ "fClef8vb": {
+  "codepoint": "U+F004D"
+ },
+ "fClef8va": {
+  "codepoint": "U+F004E"
+ },
+ "brace0": {
+  "codepoint": "U+F004F"
+ },
+ "brace1": {
+  "codepoint": "U+F0050"
+ },
+ "brace2": {
+  "codepoint": "U+F0051"
+ },
+ "brace3": {
+  "codepoint": "U+F0052"
+ },
+ "brace4": {
+  "codepoint": "U+F0053"
+ },
+ "brace5": {
+  "codepoint": "U+F0054"
+ },
+ "brace6": {
+  "codepoint": "U+F0055"
+ },
+ "brace7": {
+  "codepoint": "U+F0056"
+ },
+ "brace8": {
+  "codepoint": "U+F0057"
+ },
+ "brace9": {
+  "codepoint": "U+F0058"
+ },
+ "brace10": {
+  "codepoint": "U+F0059"
+ },
+ "brace11": {
+  "codepoint": "U+F005A"
+ },
+ "brace12": {
+  "codepoint": "U+F005B"
+ },
+ "brace13": {
+  "codepoint": "U+F005C"
+ },
+ "brace14": {
+  "codepoint": "U+F005D"
+ },
+ "brace15": {
+  "codepoint": "U+F005E"
+ },
+ "brace16": {
+  "codepoint": "U+F005F"
+ },
+ "brace17": {
+  "codepoint": "U+F0060"
+ },
+ "brace18": {
+  "codepoint": "U+F0061"
+ },
+ "brace19": {
+  "codepoint": "U+F0062"
+ },
+ "brace20": {
+  "codepoint": "U+F0063"
+ },
+ "brace21": {
+  "codepoint": "U+F0064"
+ },
+ "brace22": {
+  "codepoint": "U+F0065"
+ },
+ "brace23": {
+  "codepoint": "U+F0066"
+ },
+ "brace24": {
+  "codepoint": "U+F0067"
+ },
+ "brace25": {
+  "codepoint": "U+F0068"
+ },
+ "brace26": {
+  "codepoint": "U+F0069"
+ },
+ "brace27": {
+  "codepoint": "U+F006A"
+ },
+ "brace28": {
+  "codepoint": "U+F006B"
+ },
+ "brace29": {
+  "codepoint": "U+F006C"
+ },
+ "brace30": {
+  "codepoint": "U+F006D"
+ },
+ "brace31": {
+  "codepoint": "U+F006E"
+ },
+ "brace32": {
+  "codepoint": "U+F006F"
+ },
+ "brace33": {
+  "codepoint": "U+F0070"
+ },
+ "brace34": {
+  "codepoint": "U+F0071"
+ },
+ "brace35": {
+  "codepoint": "U+F0072"
+ },
+ "brace36": {
+  "codepoint": "U+F0073"
+ },
+ "brace37": {
+  "codepoint": "U+F0074"
+ },
+ "brace38": {
+  "codepoint": "U+F0075"
+ },
+ "brace39": {
+  "codepoint": "U+F0076"
+ },
+ "brace40": {
+  "codepoint": "U+F0077"
+ },
+ "brace41": {
+  "codepoint": "U+F0078"
+ },
+ "brace42": {
+  "codepoint": "U+F0079"
+ },
+ "brace43": {
+  "codepoint": "U+F007A"
+ },
+ "brace44": {
+  "codepoint": "U+F007B"
+ },
+ "brace45": {
+  "codepoint": "U+F007C"
+ },
+ "brace46": {
+  "codepoint": "U+F007D"
+ },
+ "brace47": {
+  "codepoint": "U+F007E"
+ },
+ "brace48": {
+  "codepoint": "U+F007F"
+ },
+ "brace49": {
+  "codepoint": "U+F0080"
+ },
+ "brace50": {
+  "codepoint": "U+F0081"
+ },
+ "brace51": {
+  "codepoint": "U+F0082"
+ },
+ "brace52": {
+  "codepoint": "U+F0083"
+ },
+ "brace53": {
+  "codepoint": "U+F0084"
+ },
+ "brace54": {
+  "codepoint": "U+F0085"
+ },
+ "brace55": {
+  "codepoint": "U+F0086"
+ },
+ "brace56": {
+  "codepoint": "U+F0087"
+ },
+ "brace57": {
+  "codepoint": "U+F0088"
+ },
+ "brace58": {
+  "codepoint": "U+F0089"
+ },
+ "brace59": {
+  "codepoint": "U+F008A"
+ },
+ "brace60": {
+  "codepoint": "U+F008B"
+ },
+ "brace61": {
+  "codepoint": "U+F008C"
+ },
+ "brace62": {
+  "codepoint": "U+F008D"
+ },
+ "brace63": {
+  "codepoint": "U+F008E"
+ },
+ "brace64": {
+  "codepoint": "U+F008F"
+ },
+ "brace65": {
+  "codepoint": "U+F0090"
+ },
+ "brace66": {
+  "codepoint": "U+F0091"
+ },
+ "brace67": {
+  "codepoint": "U+F0092"
+ },
+ "brace68": {
+  "codepoint": "U+F0093"
+ },
+ "brace69": {
+  "codepoint": "U+F0094"
+ },
+ "brace70": {
+  "codepoint": "U+F0095"
+ },
+ "brace71": {
+  "codepoint": "U+F0096"
+ },
+ "brace72": {
+  "codepoint": "U+F0097"
+ },
+ "brace73": {
+  "codepoint": "U+F0098"
+ },
+ "brace74": {
+  "codepoint": "U+F0099"
+ },
+ "brace75": {
+  "codepoint": "U+F009A"
+ },
+ "brace76": {
+  "codepoint": "U+F009B"
+ },
+ "brace77": {
+  "codepoint": "U+F009C"
+ },
+ "brace78": {
+  "codepoint": "U+F009D"
+ },
+ "brace79": {
+  "codepoint": "U+F009E"
+ },
+ "brace80": {
+  "codepoint": "U+F009F"
+ },
+ "brace81": {
+  "codepoint": "U+F00A0"
+ },
+ "brace82": {
+  "codepoint": "U+F00A1"
+ },
+ "brace83": {
+  "codepoint": "U+F00A2"
+ },
+ "brace84": {
+  "codepoint": "U+F00A3"
+ },
+ "brace85": {
+  "codepoint": "U+F00A4"
+ },
+ "brace86": {
+  "codepoint": "U+F00A5"
+ },
+ "brace87": {
+  "codepoint": "U+F00A6"
+ },
+ "brace88": {
+  "codepoint": "U+F00A7"
+ },
+ "brace89": {
+  "codepoint": "U+F00A8"
+ },
+ "brace90": {
+  "codepoint": "U+F00A9"
+ },
+ "brace91": {
+  "codepoint": "U+F00AA"
+ },
+ "brace92": {
+  "codepoint": "U+F00AB"
+ },
+ "brace93": {
+  "codepoint": "U+F00AC"
+ },
+ "brace94": {
+  "codepoint": "U+F00AD"
+ },
+ "brace95": {
+  "codepoint": "U+F00AE"
+ },
+ "brace96": {
+  "codepoint": "U+F00AF"
+ },
+ "brace97": {
+  "codepoint": "U+F00B0"
+ },
+ "brace98": {
+  "codepoint": "U+F00B1"
+ },
+ "brace99": {
+  "codepoint": "U+F00B2"
+ },
+ "brace100": {
+  "codepoint": "U+F00B3"
+ },
+ "brace101": {
+  "codepoint": "U+F00B4"
+ },
+ "brace102": {
+  "codepoint": "U+F00B5"
+ },
+ "brace103": {
+  "codepoint": "U+F00B6"
+ },
+ "brace104": {
+  "codepoint": "U+F00B7"
+ },
+ "brace105": {
+  "codepoint": "U+F00B8"
+ },
+ "brace106": {
+  "codepoint": "U+F00B9"
+ },
+ "brace107": {
+  "codepoint": "U+F00BA"
+ },
+ "brace108": {
+  "codepoint": "U+F00BB"
+ },
+ "brace109": {
+  "codepoint": "U+F00BC"
+ },
+ "brace110": {
+  "codepoint": "U+F00BD"
+ },
+ "brace111": {
+  "codepoint": "U+F00BE"
+ },
+ "brace112": {
+  "codepoint": "U+F00BF"
+ },
+ "brace113": {
+  "codepoint": "U+F00C0"
+ },
+ "brace114": {
+  "codepoint": "U+F00C1"
+ },
+ "brace115": {
+  "codepoint": "U+F00C2"
+ },
+ "brace116": {
+  "codepoint": "U+F00C3"
+ },
+ "brace117": {
+  "codepoint": "U+F00C4"
+ },
+ "brace118": {
+  "codepoint": "U+F00C5"
+ },
+ "brace119": {
+  "codepoint": "U+F00C6"
+ },
+ "brace120": {
+  "codepoint": "U+F00C7"
+ },
+ "brace121": {
+  "codepoint": "U+F00C8"
+ },
+ "brace122": {
+  "codepoint": "U+F00C9"
+ },
+ "brace123": {
+  "codepoint": "U+F00CA"
+ },
+ "brace124": {
+  "codepoint": "U+F00CB"
+ },
+ "brace125": {
+  "codepoint": "U+F00CC"
+ },
+ "brace126": {
+  "codepoint": "U+F00CD"
+ },
+ "brace127": {
+  "codepoint": "U+F00CE"
+ },
+ "brace128": {
+  "codepoint": "U+F00CF"
+ },
+ "brace129": {
+  "codepoint": "U+F00D0"
+ },
+ "brace130": {
+  "codepoint": "U+F00D1"
+ },
+ "brace131": {
+  "codepoint": "U+F00D2"
+ },
+ "brace132": {
+  "codepoint": "U+F00D3"
+ },
+ "brace133": {
+  "codepoint": "U+F00D4"
+ },
+ "brace134": {
+  "codepoint": "U+F00D5"
+ },
+ "brace135": {
+  "codepoint": "U+F00D6"
+ },
+ "brace136": {
+  "codepoint": "U+F00D7"
+ },
+ "brace137": {
+  "codepoint": "U+F00D8"
+ },
+ "brace138": {
+  "codepoint": "U+F00D9"
+ },
+ "brace139": {
+  "codepoint": "U+F00DA"
+ },
+ "brace140": {
+  "codepoint": "U+F00DB"
+ },
+ "brace141": {
+  "codepoint": "U+F00DC"
+ },
+ "brace142": {
+  "codepoint": "U+F00DD"
+ },
+ "brace143": {
+  "codepoint": "U+F00DE"
+ },
+ "brace144": {
+  "codepoint": "U+F00DF"
+ },
+ "brace145": {
+  "codepoint": "U+F00E0"
+ },
+ "brace146": {
+  "codepoint": "U+F00E1"
+ },
+ "brace147": {
+  "codepoint": "U+F00E2"
+ },
+ "brace148": {
+  "codepoint": "U+F00E3"
+ },
+ "brace149": {
+  "codepoint": "U+F00E4"
+ },
+ "brace150": {
+  "codepoint": "U+F00E5"
+ },
+ "brace151": {
+  "codepoint": "U+F00E6"
+ },
+ "brace152": {
+  "codepoint": "U+F00E7"
+ },
+ "brace153": {
+  "codepoint": "U+F00E8"
+ },
+ "brace154": {
+  "codepoint": "U+F00E9"
+ },
+ "brace155": {
+  "codepoint": "U+F00EA"
+ },
+ "brace156": {
+  "codepoint": "U+F00EB"
+ },
+ "brace157": {
+  "codepoint": "U+F00EC"
+ },
+ "brace158": {
+  "codepoint": "U+F00ED"
+ },
+ "brace159": {
+  "codepoint": "U+F00EE"
+ },
+ "brace160": {
+  "codepoint": "U+F00EF"
+ },
+ "brace161": {
+  "codepoint": "U+F00F0"
+ },
+ "brace162": {
+  "codepoint": "U+F00F1"
+ },
+ "brace163": {
+  "codepoint": "U+F00F2"
+ },
+ "brace164": {
+  "codepoint": "U+F00F3"
+ },
+ "brace165": {
+  "codepoint": "U+F00F4"
+ },
+ "brace166": {
+  "codepoint": "U+F00F5"
+ },
+ "brace167": {
+  "codepoint": "U+F00F6"
+ },
+ "brace168": {
+  "codepoint": "U+F00F7"
+ },
+ "brace169": {
+  "codepoint": "U+F00F8"
+ },
+ "brace170": {
+  "codepoint": "U+F00F9"
+ },
+ "brace171": {
+  "codepoint": "U+F00FA"
+ },
+ "brace172": {
+  "codepoint": "U+F00FB"
+ },
+ "brace173": {
+  "codepoint": "U+F00FC"
+ },
+ "brace174": {
+  "codepoint": "U+F00FD"
+ },
+ "brace175": {
+  "codepoint": "U+F00FE"
+ },
+ "brace176": {
+  "codepoint": "U+F00FF"
+ },
+ "brace177": {
+  "codepoint": "U+F0100"
+ },
+ "brace178": {
+  "codepoint": "U+F0101"
+ },
+ "brace179": {
+  "codepoint": "U+F0102"
+ },
+ "brace180": {
+  "codepoint": "U+F0103"
+ },
+ "brace181": {
+  "codepoint": "U+F0104"
+ },
+ "brace182": {
+  "codepoint": "U+F0105"
+ },
+ "brace183": {
+  "codepoint": "U+F0106"
+ },
+ "brace184": {
+  "codepoint": "U+F0107"
+ },
+ "brace185": {
+  "codepoint": "U+F0108"
+ },
+ "brace186": {
+  "codepoint": "U+F0109"
+ },
+ "brace187": {
+  "codepoint": "U+F010A"
+ },
+ "brace188": {
+  "codepoint": "U+F010B"
+ },
+ "brace189": {
+  "codepoint": "U+F010C"
+ },
+ "brace190": {
+  "codepoint": "U+F010D"
+ },
+ "brace191": {
+  "codepoint": "U+F010E"
+ },
+ "brace192": {
+  "codepoint": "U+F010F"
+ },
+ "brace193": {
+  "codepoint": "U+F0110"
+ },
+ "brace194": {
+  "codepoint": "U+F0111"
+ },
+ "brace195": {
+  "codepoint": "U+F0112"
+ },
+ "brace196": {
+  "codepoint": "U+F0113"
+ },
+ "brace197": {
+  "codepoint": "U+F0114"
+ },
+ "brace198": {
+  "codepoint": "U+F0115"
+ },
+ "brace199": {
+  "codepoint": "U+F0116"
+ },
+ "brace200": {
+  "codepoint": "U+F0117"
+ },
+ "brace201": {
+  "codepoint": "U+F0118"
+ },
+ "brace202": {
+  "codepoint": "U+F0119"
+ },
+ "brace203": {
+  "codepoint": "U+F011A"
+ },
+ "brace204": {
+  "codepoint": "U+F011B"
+ },
+ "brace205": {
+  "codepoint": "U+F011C"
+ },
+ "brace206": {
+  "codepoint": "U+F011D"
+ },
+ "brace207": {
+  "codepoint": "U+F011E"
+ },
+ "brace208": {
+  "codepoint": "U+F011F"
+ },
+ "brace209": {
+  "codepoint": "U+F0120"
+ },
+ "brace210": {
+  "codepoint": "U+F0121"
+ },
+ "brace211": {
+  "codepoint": "U+F0122"
+ },
+ "brace212": {
+  "codepoint": "U+F0123"
+ },
+ "brace213": {
+  "codepoint": "U+F0124"
+ },
+ "brace214": {
+  "codepoint": "U+F0125"
+ },
+ "brace215": {
+  "codepoint": "U+F0126"
+ },
+ "brace216": {
+  "codepoint": "U+F0127"
+ },
+ "brace217": {
+  "codepoint": "U+F0128"
+ },
+ "brace218": {
+  "codepoint": "U+F0129"
+ },
+ "brace219": {
+  "codepoint": "U+F012A"
+ },
+ "brace220": {
+  "codepoint": "U+F012B"
+ },
+ "brace221": {
+  "codepoint": "U+F012C"
+ },
+ "brace222": {
+  "codepoint": "U+F012D"
+ },
+ "brace223": {
+  "codepoint": "U+F012E"
+ },
+ "brace224": {
+  "codepoint": "U+F012F"
+ },
+ "brace225": {
+  "codepoint": "U+F0130"
+ },
+ "brace226": {
+  "codepoint": "U+F0131"
+ },
+ "brace227": {
+  "codepoint": "U+F0132"
+ },
+ "brace228": {
+  "codepoint": "U+F0133"
+ },
+ "brace229": {
+  "codepoint": "U+F0134"
+ },
+ "brace230": {
+  "codepoint": "U+F0135"
+ },
+ "brace231": {
+  "codepoint": "U+F0136"
+ },
+ "brace232": {
+  "codepoint": "U+F0137"
+ },
+ "brace233": {
+  "codepoint": "U+F0138"
+ },
+ "brace234": {
+  "codepoint": "U+F0139"
+ },
+ "brace235": {
+  "codepoint": "U+F013A"
+ },
+ "brace236": {
+  "codepoint": "U+F013B"
+ },
+ "brace237": {
+  "codepoint": "U+F013C"
+ },
+ "brace238": {
+  "codepoint": "U+F013D"
+ },
+ "brace239": {
+  "codepoint": "U+F013E"
+ },
+ "brace240": {
+  "codepoint": "U+F013F"
+ },
+ "brace241": {
+  "codepoint": "U+F0140"
+ },
+ "brace242": {
+  "codepoint": "U+F0141"
+ },
+ "brace243": {
+  "codepoint": "U+F0142"
+ },
+ "brace244": {
+  "codepoint": "U+F0143"
+ },
+ "brace245": {
+  "codepoint": "U+F0144"
+ },
+ "brace246": {
+  "codepoint": "U+F0145"
+ },
+ "brace247": {
+  "codepoint": "U+F0146"
+ },
+ "brace248": {
+  "codepoint": "U+F0147"
+ },
+ "brace249": {
+  "codepoint": "U+F0148"
+ },
+ "brace250": {
+  "codepoint": "U+F0149"
+ },
+ "brace251": {
+  "codepoint": "U+F014A"
+ },
+ "brace252": {
+  "codepoint": "U+F014B"
+ },
+ "brace253": {
+  "codepoint": "U+F014C"
+ },
+ "brace254": {
+  "codepoint": "U+F014D"
+ },
+ "brace255": {
+  "codepoint": "U+F014E"
+ },
+ "brace256": {
+  "codepoint": "U+F014F"
+ },
+ "brace257": {
+  "codepoint": "U+F0150"
+ },
+ "brace258": {
+  "codepoint": "U+F0151"
+ },
+ "brace259": {
+  "codepoint": "U+F0152"
+ },
+ "brace260": {
+  "codepoint": "U+F0153"
+ },
+ "brace261": {
+  "codepoint": "U+F0154"
+ },
+ "brace262": {
+  "codepoint": "U+F0155"
+ },
+ "brace263": {
+  "codepoint": "U+F0156"
+ },
+ "brace264": {
+  "codepoint": "U+F0157"
+ },
+ "brace265": {
+  "codepoint": "U+F0158"
+ },
+ "brace266": {
+  "codepoint": "U+F0159"
+ },
+ "brace267": {
+  "codepoint": "U+F015A"
+ },
+ "brace268": {
+  "codepoint": "U+F015B"
+ },
+ "brace269": {
+  "codepoint": "U+F015C"
+ },
+ "brace270": {
+  "codepoint": "U+F015D"
+ },
+ "brace271": {
+  "codepoint": "U+F015E"
+ },
+ "brace272": {
+  "codepoint": "U+F015F"
+ },
+ "brace273": {
+  "codepoint": "U+F0160"
+ },
+ "brace274": {
+  "codepoint": "U+F0161"
+ },
+ "brace275": {
+  "codepoint": "U+F0162"
+ },
+ "brace276": {
+  "codepoint": "U+F0163"
+ },
+ "brace277": {
+  "codepoint": "U+F0164"
+ },
+ "brace278": {
+  "codepoint": "U+F0165"
+ },
+ "brace279": {
+  "codepoint": "U+F0166"
+ },
+ "brace280": {
+  "codepoint": "U+F0167"
+ },
+ "brace281": {
+  "codepoint": "U+F0168"
+ },
+ "brace282": {
+  "codepoint": "U+F0169"
+ },
+ "brace283": {
+  "codepoint": "U+F016A"
+ },
+ "brace284": {
+  "codepoint": "U+F016B"
+ },
+ "brace285": {
+  "codepoint": "U+F016C"
+ },
+ "brace286": {
+  "codepoint": "U+F016D"
+ },
+ "brace287": {
+  "codepoint": "U+F016E"
+ },
+ "brace288": {
+  "codepoint": "U+F016F"
+ },
+ "brace289": {
+  "codepoint": "U+F0170"
+ },
+ "brace290": {
+  "codepoint": "U+F0171"
+ },
+ "brace291": {
+  "codepoint": "U+F0172"
+ },
+ "brace292": {
+  "codepoint": "U+F0173"
+ },
+ "brace293": {
+  "codepoint": "U+F0174"
+ },
+ "brace294": {
+  "codepoint": "U+F0175"
+ },
+ "brace295": {
+  "codepoint": "U+F0176"
+ },
+ "brace296": {
+  "codepoint": "U+F0177"
+ },
+ "brace297": {
+  "codepoint": "U+F0178"
+ },
+ "brace298": {
+  "codepoint": "U+F0179"
+ },
+ "brace299": {
+  "codepoint": "U+F017A"
+ },
+ "brace300": {
+  "codepoint": "U+F017B"
+ },
+ "brace301": {
+  "codepoint": "U+F017C"
+ },
+ "brace302": {
+  "codepoint": "U+F017D"
+ },
+ "brace303": {
+  "codepoint": "U+F017E"
+ },
+ "brace304": {
+  "codepoint": "U+F017F"
+ },
+ "brace305": {
+  "codepoint": "U+F0180"
+ },
+ "brace306": {
+  "codepoint": "U+F0181"
+ },
+ "brace307": {
+  "codepoint": "U+F0182"
+ },
+ "brace308": {
+  "codepoint": "U+F0183"
+ },
+ "brace309": {
+  "codepoint": "U+F0184"
+ },
+ "brace310": {
+  "codepoint": "U+F0185"
+ },
+ "brace311": {
+  "codepoint": "U+F0186"
+ },
+ "brace312": {
+  "codepoint": "U+F0187"
+ },
+ "brace313": {
+  "codepoint": "U+F0188"
+ },
+ "brace314": {
+  "codepoint": "U+F0189"
+ },
+ "brace315": {
+  "codepoint": "U+F018A"
+ },
+ "brace316": {
+  "codepoint": "U+F018B"
+ },
+ "brace317": {
+  "codepoint": "U+F018C"
+ },
+ "brace318": {
+  "codepoint": "U+F018D"
+ },
+ "brace319": {
+  "codepoint": "U+F018E"
+ },
+ "brace320": {
+  "codepoint": "U+F018F"
+ },
+ "brace321": {
+  "codepoint": "U+F0190"
+ },
+ "brace322": {
+  "codepoint": "U+F0191"
+ },
+ "brace323": {
+  "codepoint": "U+F0192"
+ },
+ "brace324": {
+  "codepoint": "U+F0193"
+ },
+ "brace325": {
+  "codepoint": "U+F0194"
+ },
+ "brace326": {
+  "codepoint": "U+F0195"
+ },
+ "brace327": {
+  "codepoint": "U+F0196"
+ },
+ "brace328": {
+  "codepoint": "U+F0197"
+ },
+ "brace329": {
+  "codepoint": "U+F0198"
+ },
+ "brace330": {
+  "codepoint": "U+F0199"
+ },
+ "brace331": {
+  "codepoint": "U+F019A"
+ },
+ "brace332": {
+  "codepoint": "U+F019B"
+ },
+ "brace333": {
+  "codepoint": "U+F019C"
+ },
+ "brace334": {
+  "codepoint": "U+F019D"
+ },
+ "brace335": {
+  "codepoint": "U+F019E"
+ },
+ "brace336": {
+  "codepoint": "U+F019F"
+ },
+ "brace337": {
+  "codepoint": "U+F01A0"
+ },
+ "brace338": {
+  "codepoint": "U+F01A1"
+ },
+ "brace339": {
+  "codepoint": "U+F01A2"
+ },
+ "brace340": {
+  "codepoint": "U+F01A3"
+ },
+ "brace341": {
+  "codepoint": "U+F01A4"
+ },
+ "brace342": {
+  "codepoint": "U+F01A5"
+ },
+ "brace343": {
+  "codepoint": "U+F01A6"
+ },
+ "brace344": {
+  "codepoint": "U+F01A7"
+ },
+ "brace345": {
+  "codepoint": "U+F01A8"
+ },
+ "brace346": {
+  "codepoint": "U+F01A9"
+ },
+ "brace347": {
+  "codepoint": "U+F01AA"
+ },
+ "brace348": {
+  "codepoint": "U+F01AB"
+ },
+ "brace349": {
+  "codepoint": "U+F01AC"
+ },
+ "brace350": {
+  "codepoint": "U+F01AD"
+ },
+ "brace351": {
+  "codepoint": "U+F01AE"
+ },
+ "brace352": {
+  "codepoint": "U+F01AF"
+ },
+ "brace353": {
+  "codepoint": "U+F01B0"
+ },
+ "brace354": {
+  "codepoint": "U+F01B1"
+ },
+ "brace355": {
+  "codepoint": "U+F01B2"
+ },
+ "brace356": {
+  "codepoint": "U+F01B3"
+ },
+ "brace357": {
+  "codepoint": "U+F01B4"
+ },
+ "brace358": {
+  "codepoint": "U+F01B5"
+ },
+ "brace359": {
+  "codepoint": "U+F01B6"
+ },
+ "brace360": {
+  "codepoint": "U+F01B7"
+ },
+ "brace361": {
+  "codepoint": "U+F01B8"
+ },
+ "brace362": {
+  "codepoint": "U+F01B9"
+ },
+ "brace363": {
+  "codepoint": "U+F01BA"
+ },
+ "brace364": {
+  "codepoint": "U+F01BB"
+ },
+ "brace365": {
+  "codepoint": "U+F01BC"
+ },
+ "brace366": {
+  "codepoint": "U+F01BD"
+ },
+ "brace367": {
+  "codepoint": "U+F01BE"
+ },
+ "brace368": {
+  "codepoint": "U+F01BF"
+ },
+ "brace369": {
+  "codepoint": "U+F01C0"
+ },
+ "brace370": {
+  "codepoint": "U+F01C1"
+ },
+ "brace371": {
+  "codepoint": "U+F01C2"
+ },
+ "brace372": {
+  "codepoint": "U+F01C3"
+ },
+ "brace373": {
+  "codepoint": "U+F01C4"
+ },
+ "brace374": {
+  "codepoint": "U+F01C5"
+ },
+ "brace375": {
+  "codepoint": "U+F01C6"
+ },
+ "brace376": {
+  "codepoint": "U+F01C7"
+ },
+ "brace377": {
+  "codepoint": "U+F01C8"
+ },
+ "brace378": {
+  "codepoint": "U+F01C9"
+ },
+ "brace379": {
+  "codepoint": "U+F01CA"
+ },
+ "brace380": {
+  "codepoint": "U+F01CB"
+ },
+ "brace381": {
+  "codepoint": "U+F01CC"
+ },
+ "brace382": {
+  "codepoint": "U+F01CD"
+ },
+ "brace383": {
+  "codepoint": "U+F01CE"
+ },
+ "brace384": {
+  "codepoint": "U+F01CF"
+ },
+ "brace385": {
+  "codepoint": "U+F01D0"
+ },
+ "brace386": {
+  "codepoint": "U+F01D1"
+ },
+ "brace387": {
+  "codepoint": "U+F01D2"
+ },
+ "brace388": {
+  "codepoint": "U+F01D3"
+ },
+ "brace389": {
+  "codepoint": "U+F01D4"
+ },
+ "brace390": {
+  "codepoint": "U+F01D5"
+ },
+ "brace391": {
+  "codepoint": "U+F01D6"
+ },
+ "brace392": {
+  "codepoint": "U+F01D7"
+ },
+ "brace393": {
+  "codepoint": "U+F01D8"
+ },
+ "brace394": {
+  "codepoint": "U+F01D9"
+ },
+ "brace395": {
+  "codepoint": "U+F01DA"
+ },
+ "brace396": {
+  "codepoint": "U+F01DB"
+ },
+ "brace397": {
+  "codepoint": "U+F01DC"
+ },
+ "brace398": {
+  "codepoint": "U+F01DD"
+ },
+ "brace399": {
+  "codepoint": "U+F01DE"
+ },
+ "brace400": {
+  "codepoint": "U+F01DF"
+ },
+ "brace401": {
+  "codepoint": "U+F01E0"
+ },
+ "brace402": {
+  "codepoint": "U+F01E1"
+ },
+ "brace403": {
+  "codepoint": "U+F01E2"
+ },
+ "brace404": {
+  "codepoint": "U+F01E3"
+ },
+ "brace405": {
+  "codepoint": "U+F01E4"
+ },
+ "brace406": {
+  "codepoint": "U+F01E5"
+ },
+ "brace407": {
+  "codepoint": "U+F01E6"
+ },
+ "brace408": {
+  "codepoint": "U+F01E7"
+ },
+ "brace409": {
+  "codepoint": "U+F01E8"
+ },
+ "brace410": {
+  "codepoint": "U+F01E9"
+ },
+ "brace411": {
+  "codepoint": "U+F01EA"
+ },
+ "brace412": {
+  "codepoint": "U+F01EB"
+ },
+ "brace413": {
+  "codepoint": "U+F01EC"
+ },
+ "brace414": {
+  "codepoint": "U+F01ED"
+ },
+ "brace415": {
+  "codepoint": "U+F01EE"
+ },
+ "brace416": {
+  "codepoint": "U+F01EF"
+ },
+ "brace417": {
+  "codepoint": "U+F01F0"
+ },
+ "brace418": {
+  "codepoint": "U+F01F1"
+ },
+ "brace419": {
+  "codepoint": "U+F01F2"
+ },
+ "brace420": {
+  "codepoint": "U+F01F3"
+ },
+ "brace421": {
+  "codepoint": "U+F01F4"
+ },
+ "brace422": {
+  "codepoint": "U+F01F5"
+ },
+ "brace423": {
+  "codepoint": "U+F01F6"
+ },
+ "brace424": {
+  "codepoint": "U+F01F7"
+ },
+ "brace425": {
+  "codepoint": "U+F01F8"
+ },
+ "brace426": {
+  "codepoint": "U+F01F9"
+ },
+ "brace427": {
+  "codepoint": "U+F01FA"
+ },
+ "brace428": {
+  "codepoint": "U+F01FB"
+ },
+ "brace429": {
+  "codepoint": "U+F01FC"
+ },
+ "brace430": {
+  "codepoint": "U+F01FD"
+ },
+ "brace431": {
+  "codepoint": "U+F01FE"
+ },
+ "brace432": {
+  "codepoint": "U+F01FF"
+ },
+ "brace433": {
+  "codepoint": "U+F0200"
+ },
+ "brace434": {
+  "codepoint": "U+F0201"
+ },
+ "brace435": {
+  "codepoint": "U+F0202"
+ },
+ "brace436": {
+  "codepoint": "U+F0203"
+ },
+ "brace437": {
+  "codepoint": "U+F0204"
+ },
+ "brace438": {
+  "codepoint": "U+F0205"
+ },
+ "brace439": {
+  "codepoint": "U+F0206"
+ },
+ "brace440": {
+  "codepoint": "U+F0207"
+ },
+ "brace441": {
+  "codepoint": "U+F0208"
+ },
+ "brace442": {
+  "codepoint": "U+F0209"
+ },
+ "brace443": {
+  "codepoint": "U+F020A"
+ },
+ "brace444": {
+  "codepoint": "U+F020B"
+ },
+ "brace445": {
+  "codepoint": "U+F020C"
+ },
+ "brace446": {
+  "codepoint": "U+F020D"
+ },
+ "brace447": {
+  "codepoint": "U+F020E"
+ },
+ "brace448": {
+  "codepoint": "U+F020F"
+ },
+ "brace449": {
+  "codepoint": "U+F0210"
+ },
+ "brace450": {
+  "codepoint": "U+F0211"
+ },
+ "brace451": {
+  "codepoint": "U+F0212"
+ },
+ "brace452": {
+  "codepoint": "U+F0213"
+ },
+ "brace453": {
+  "codepoint": "U+F0214"
+ },
+ "brace454": {
+  "codepoint": "U+F0215"
+ },
+ "brace455": {
+  "codepoint": "U+F0216"
+ },
+ "brace456": {
+  "codepoint": "U+F0217"
+ },
+ "brace457": {
+  "codepoint": "U+F0218"
+ },
+ "brace458": {
+  "codepoint": "U+F0219"
+ },
+ "brace459": {
+  "codepoint": "U+F021A"
+ },
+ "brace460": {
+  "codepoint": "U+F021B"
+ },
+ "brace461": {
+  "codepoint": "U+F021C"
+ },
+ "brace462": {
+  "codepoint": "U+F021D"
+ },
+ "brace463": {
+  "codepoint": "U+F021E"
+ },
+ "brace464": {
+  "codepoint": "U+F021F"
+ },
+ "brace465": {
+  "codepoint": "U+F0220"
+ },
+ "brace466": {
+  "codepoint": "U+F0221"
+ },
+ "brace467": {
+  "codepoint": "U+F0222"
+ },
+ "brace468": {
+  "codepoint": "U+F0223"
+ },
+ "brace469": {
+  "codepoint": "U+F0224"
+ },
+ "brace470": {
+  "codepoint": "U+F0225"
+ },
+ "brace471": {
+  "codepoint": "U+F0226"
+ },
+ "brace472": {
+  "codepoint": "U+F0227"
+ },
+ "brace473": {
+  "codepoint": "U+F0228"
+ },
+ "brace474": {
+  "codepoint": "U+F0229"
+ },
+ "brace475": {
+  "codepoint": "U+F022A"
+ },
+ "brace476": {
+  "codepoint": "U+F022B"
+ },
+ "brace477": {
+  "codepoint": "U+F022C"
+ },
+ "brace478": {
+  "codepoint": "U+F022D"
+ },
+ "brace479": {
+  "codepoint": "U+F022E"
+ },
+ "brace480": {
+  "codepoint": "U+F022F"
+ },
+ "brace481": {
+  "codepoint": "U+F0230"
+ },
+ "brace482": {
+  "codepoint": "U+F0231"
+ },
+ "brace483": {
+  "codepoint": "U+F0232"
+ },
+ "brace484": {
+  "codepoint": "U+F0233"
+ },
+ "brace485": {
+  "codepoint": "U+F0234"
+ },
+ "brace486": {
+  "codepoint": "U+F0235"
+ },
+ "brace487": {
+  "codepoint": "U+F0236"
+ },
+ "brace488": {
+  "codepoint": "U+F0237"
+ },
+ "brace489": {
+  "codepoint": "U+F0238"
+ },
+ "brace490": {
+  "codepoint": "U+F0239"
+ },
+ "brace491": {
+  "codepoint": "U+F023A"
+ },
+ "brace492": {
+  "codepoint": "U+F023B"
+ },
+ "brace493": {
+  "codepoint": "U+F023C"
+ },
+ "brace494": {
+  "codepoint": "U+F023D"
+ },
+ "brace495": {
+  "codepoint": "U+F023E"
+ },
+ "brace496": {
+  "codepoint": "U+F023F"
+ },
+ "brace497": {
+  "codepoint": "U+F0240"
+ },
+ "brace498": {
+  "codepoint": "U+F0241"
+ },
+ "brace499": {
+  "codepoint": "U+F0242"
+ },
+ "brace500": {
+  "codepoint": "U+F0243"
+ },
+ "brace501": {
+  "codepoint": "U+F0244"
+ },
+ "brace502": {
+  "codepoint": "U+F0245"
+ },
+ "brace503": {
+  "codepoint": "U+F0246"
+ },
+ "brace504": {
+  "codepoint": "U+F0247"
+ },
+ "brace505": {
+  "codepoint": "U+F0248"
+ },
+ "brace506": {
+  "codepoint": "U+F0249"
+ },
+ "brace507": {
+  "codepoint": "U+F024A"
+ },
+ "brace508": {
+  "codepoint": "U+F024B"
+ },
+ "brace509": {
+  "codepoint": "U+F024C"
+ },
+ "brace510": {
+  "codepoint": "U+F024D"
+ },
+ "brace511": {
+  "codepoint": "U+F024E"
+ },
+ "brace512": {
+  "codepoint": "U+F024F"
+ },
+ "brace513": {
+  "codepoint": "U+F0250"
+ },
+ "brace514": {
+  "codepoint": "U+F0251"
+ },
+ "brace515": {
+  "codepoint": "U+F0252"
+ },
+ "brace516": {
+  "codepoint": "U+F0253"
+ },
+ "brace517": {
+  "codepoint": "U+F0254"
+ },
+ "brace518": {
+  "codepoint": "U+F0255"
+ },
+ "brace519": {
+  "codepoint": "U+F0256"
+ },
+ "brace520": {
+  "codepoint": "U+F0257"
+ },
+ "brace521": {
+  "codepoint": "U+F0258"
+ },
+ "brace522": {
+  "codepoint": "U+F0259"
+ },
+ "brace523": {
+  "codepoint": "U+F025A"
+ },
+ "brace524": {
+  "codepoint": "U+F025B"
+ },
+ "brace525": {
+  "codepoint": "U+F025C"
+ },
+ "brace526": {
+  "codepoint": "U+F025D"
+ },
+ "brace527": {
+  "codepoint": "U+F025E"
+ },
+ "brace528": {
+  "codepoint": "U+F025F"
+ },
+ "brace529": {
+  "codepoint": "U+F0260"
+ },
+ "brace530": {
+  "codepoint": "U+F0261"
+ },
+ "brace531": {
+  "codepoint": "U+F0262"
+ },
+ "brace532": {
+  "codepoint": "U+F0263"
+ },
+ "brace533": {
+  "codepoint": "U+F0264"
+ },
+ "brace534": {
+  "codepoint": "U+F0265"
+ },
+ "brace535": {
+  "codepoint": "U+F0266"
+ },
+ "brace536": {
+  "codepoint": "U+F0267"
+ },
+ "brace537": {
+  "codepoint": "U+F0268"
+ },
+ "brace538": {
+  "codepoint": "U+F0269"
+ },
+ "brace539": {
+  "codepoint": "U+F026A"
+ },
+ "brace540": {
+  "codepoint": "U+F026B"
+ },
+ "brace541": {
+  "codepoint": "U+F026C"
+ },
+ "brace542": {
+  "codepoint": "U+F026D"
+ },
+ "brace543": {
+  "codepoint": "U+F026E"
+ },
+ "brace544": {
+  "codepoint": "U+F026F"
+ },
+ "brace545": {
+  "codepoint": "U+F0270"
+ },
+ "brace546": {
+  "codepoint": "U+F0271"
+ },
+ "brace547": {
+  "codepoint": "U+F0272"
+ },
+ "brace548": {
+  "codepoint": "U+F0273"
+ },
+ "brace549": {
+  "codepoint": "U+F0274"
+ },
+ "brace550": {
+  "codepoint": "U+F0275"
+ },
+ "brace551": {
+  "codepoint": "U+F0276"
+ },
+ "brace552": {
+  "codepoint": "U+F0277"
+ },
+ "brace553": {
+  "codepoint": "U+F0278"
+ },
+ "brace554": {
+  "codepoint": "U+F0279"
+ },
+ "brace555": {
+  "codepoint": "U+F027A"
+ },
+ "brace556": {
+  "codepoint": "U+F027B"
+ },
+ "brace557": {
+  "codepoint": "U+F027C"
+ },
+ "brace558": {
+  "codepoint": "U+F027D"
+ },
+ "brace559": {
+  "codepoint": "U+F027E"
+ },
+ "brace560": {
+  "codepoint": "U+F027F"
+ },
+ "brace561": {
+  "codepoint": "U+F0280"
+ },
+ "brace562": {
+  "codepoint": "U+F0281"
+ },
+ "brace563": {
+  "codepoint": "U+F0282"
+ },
+ "brace564": {
+  "codepoint": "U+F0283"
+ },
+ "brace565": {
+  "codepoint": "U+F0284"
+ },
+ "brace566": {
+  "codepoint": "U+F0285"
+ },
+ "brace567": {
+  "codepoint": "U+F0286"
+ },
+ "brace568": {
+  "codepoint": "U+F0287"
+ },
+ "brace569": {
+  "codepoint": "U+F0288"
+ },
+ "brace570": {
+  "codepoint": "U+F0289"
+ },
+ "brace571": {
+  "codepoint": "U+F028A"
+ },
+ "brace572": {
+  "codepoint": "U+F028B"
+ },
+ "brace573": {
+  "codepoint": "U+F028C"
+ },
+ "brace574": {
+  "codepoint": "U+F028D"
+ },
+ "brace575": {
+  "codepoint": "U+F028E"
+ }
+}
